@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../fantastic_pet_project/.idea/fantastic_pet_project.iml" filepath="$PROJECT_DIR$/../fantastic_pet_project/.idea/fantastic_pet_project.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/test_tasks.iml" filepath="$PROJECT_DIR$/.idea/test_tasks.iml" />
     </modules>
   </component>
